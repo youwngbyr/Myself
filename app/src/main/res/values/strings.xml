@@ -1,0 +1,71 @@
+<resources>
+    <!-- Resource Splash Screen -->
+    <string name="app_name">MySelf</string>
+    <string name="made_with">Youwan Gebyar Zulnazri</string>
+
+    <!-- Resource Menu Home -->
+    <string name="personal_data">Personal Data</string>
+    <string name="nama">Nama :</string>
+    <string name="nama_saya">Youwan Gebyar Zulnazri</string>
+    <string name="ttl">Tempat/Tgl Lahir :</string>
+    <string name="ttl_info">Bangko, 09 Januari 2004</string>
+    <string name="umur">Umur :</string>
+    <string name="umur_info">20 Tahun</string>
+    <string name="jenis_kelamin">Jenis Kelamin :</string>
+    <string name="jk_info">Laki-Laki</string>
+    <string name="status">Status :</string>
+    <string name="status_info">Mahasiswa</string>
+
+    <string name="hobi">Hobby</string>
+    <string name="basket">Basketball</string>
+    <string name="fixedgear">Fixed Gear</string>
+    <string name="art">Art</string>
+    <string name="game">Games</string>
+
+    <string name="h_makes">Fav Food</string>
+    <string name="fried_rice">Fried Chicken</string>
+    <string name="meatballs">Noodle</string>
+    <string name="spaghetti">Beard</string>
+    <string name="h_mikes">Fav Drink</string>
+    <string name="avocado_juice">Mineral Water</string>
+    <string name="lemon_tea">Lemon Tea</string>
+    <string name="coffee">Milk Shake</string>
+
+    <!-- Resource Menu Profile -->
+    <string name="youwan_profile">Youwan Gebyar Zulnazri</string>
+    <string name="contact">Contact</string>
+    <string name="wa">(+62)85173409011</string>
+    <string name="email">youwngbyr01@gmail.com</string>
+    <string name="instagram">youwngbyr</string>
+    <string name="click_instagram">click for my instagram</string>
+    <string name="lokasi">Location</string>
+    <string name="address">Bangbayang no.32</string>
+    <string name="find_me">Find Me</string>
+    <string name="about">About</string>
+    <string name="desc">Tugas Project AKB Pemrograman Android 3</string>
+    <string name="desc_nama">Nama :Youwan Gebyar Zulnazri</string>
+    <string name="desc_nim">NIM :10121253</string>
+    <string name="desc_tanggal">Tanggal :9 Juni 2024</string>
+    <string name="desc_myself">Saya mahasiswa Teknik Informatika dari kampus Universitas Komputer Indonesia. Saya memiliki beberapa hobi yang seru yaitu bersepeda, menggambar, bermain basket dan bermain game. </string>
+
+    <!-- Resource Menu Gallery -->
+    <string name="txt_my_gallery">Gallery</string>
+    <string name="txt_sepeda">Bersepeda di Braga</string>
+    <string name="txt_komunitas">Kumpulan sepeda pada titik kumpul</string>
+    <string name="txt_wuwa">Memainkan game baru berjudul "Wuthering Waves" bersama teman online </string>
+    <string name="txt_got">Sedang memainkan game eklusif PS yang diporting ke PC</string>
+
+    <!-- Resource Music Gallery -->
+    <string name="daily_mix">Daily Mix</string>
+    <string name="txt_daily_mix">Daily Mix</string>
+    <string name="my_playlist">My Playlist</string>
+
+    <!-- Resource Lainnya -->
+    <string name="next">Next</string>
+    <string name="welcome">Welcome</string>
+    <string name="isi_walk1">Selamat datang di aplikasi biodata  saya</string>
+    <string name="introduction">Introduction</string>
+    <string name="isi_walk2">Aplikasi ini berjudul My Apps sebagai project UTS AKB Pemrograman Android 3</string>
+    <string name="lets_started">Lets Started</string>
+
+</resources>
